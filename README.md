@@ -4,11 +4,7 @@
 
 1. [Introduction](#introduction)
 2. [Features](#features)
-3. [Tech Stack](#tech-stack)
-4. [Installation and Deployment](#installation-and-deployment)
-5. [Contribution](#contribution)
-6. [Output Video](#output-video)
-7. [Contact](#get-in-touch)
+3. [Output Video](#output-video)
 
 ---
 
@@ -30,24 +26,6 @@ This admin panel website serves as a comprehensive management system for organiz
 - **Backend**: PHP
 - **Database**: MySQL
 
-### Installation and Deployment
-
-#### Steps for Installation:
-
-1. Clone the repository: `git clone https://github.com/vijaisuria/admin-panel-event-management.git`
-2. Set up the MySQL database by importing <kbd>enigma_db.sql</kbd> located in <kbd>database</kbd> folder.
-3. Configure the database connection in the PHP files.
-4. Host the website on a PHP-enabled server (i.e. XAMPP, Apache).
-
-#### Deployment:
-
-- Ensure PHP and MySQL are properly installed and configured on the server.
-- Upload the website files to the server.
-- Set necessary file permissions and server configurations.
-
-### Contribution
-
-Contributions to this project are welcome! Feel free to fork the repository, make changes, and submit a pull request.
 
 ### Screenshots
 
@@ -60,14 +38,6 @@ Contributions to this project are welcome! Feel free to fork the repository, mak
 
 Include a link to the video demonstrating the admin panel's functionalities here.
 
-[Output Video Link](https://annauniv0-my.sharepoint.com/:v:/g/personal/2021503568_student_annauniv_edu/ETVHnivhoxhMiwbIMEJf87EBDp5ow5hh08Sbmb4HZ4osFA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=P7befp)
+[Output Video Link](https://drive.google.com/file/d/14ZiAnY9IW2IMuE5lDFS5XnX620_c0to6/view?usp=sharing)
 
-## Get in Touch
-
-For inquiries or collaborations, connect with me through 📬:
-
-- Email: [vijaisuria87@gmail.com](mailto:vijaisuria87@gmail.com)
-- LinkedIn: [vijaisuria](https://www.linkedin.com/in/vijaisuria/)
-- Twitter: [vijaisuria](https://twitter.com/vijaisuria)
-- GitHub: [Vijai Suria](https://github.com/vijaisuria)
 
